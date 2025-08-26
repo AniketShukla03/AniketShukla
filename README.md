@@ -27,17 +27,20 @@ I’m a motivated **Software Engineer** with uop 3 years of experience. I am hig
 
 - **Senior Software Engineer / Analyst** — *Capgemini* (Sep 2022 – Sep 2024)
   • Worked with automotive clients (Peugeot, Opel, Citroen) as a Lead.
-  • Built and managed RESTful APIs in Java, Python, and Node.js with focus on speed and uptime.
-  • Set up microservices deployments to make applications more scalable and fault-tolerant.
-  • Used Redis and Memcached caching to reduce database load and improve response times.
-  • Tuned SQL queries and database schemas in PostgreSQL, MySQL, and Oracle for faster performance.
-  • Implemented Kafka and RabbitMQ pipelines for stable event-driven communication.
-  • Configured secure authentication and authorization with JWT and OAuth2.
-  • Improved backend systems by profiling code, optimizing queries, and fixing bottlenecks.
-  • Automated testing with JUnit, PyTest, and REST Assured to ensure reliable releases.
-  • Containerized services with Docker and ran them on Kubernetes clusters for scalable deployments.
+  •  Developed modular front-ends (React, Razor, Bootstrap) aligned to design standards.  
+  • Delivered RESTful APIs (Node.js + SQL + PostgreSQL) for dynamic business workflows.  
+  • Deployed and maintained applications on AWS (EC2, S3, Lambda, IAM).  
+  • Automated database tasks (Oracle + Shell scripts) for rollbacks, migrations, and backups.  
+  • Diagnosed production issues via logs + root cause analysis, collaborating with infra/QA to fix quickly.  
+  • Modernized cloud infrastructure by moving legacy systems to Terraform-based IaC, boosting scalability and deployment speed.
+  • Built and managed multi-cloud environments (AWS + Azure) with strong focus on reliability, security, and zero drift.
+  • Migrated company repositories from GitHub to GitLab, improving security and CI/CD integration.
+  • Streamlined CI/CD workflows using GitLab + Jenkins + automation scripts, cutting release cycles significantly.
+  • Tuned AWS DynamoDB with auto-scaling and indexing tweaks for high-availability workloads.
+  • Set up proactive monitoring and alerting (CloudWatch, Grafana, ELK) to reduce downtime and speed up incident response.
+  •
 
-- **Technical Head** — *Dhole Patil College of Engineering, Pune* (2021–2022)  
+  - **Technical Head** — *Dhole Patil College of Engineering, Pune* (2021–2022)  
   • Managed college fests, events for whole college and attended international guests and helped PPO team for college placements.
 
   - **President** — *Toastmasters Club of Pune* (2021–2022)  
