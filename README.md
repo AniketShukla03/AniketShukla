@@ -41,14 +41,15 @@ Currently pursuing **M.Tech (AI & Data Science)** at **IIT Patna** and actively 
   • Containerized services with Docker and ran them on Kubernetes clusters for scalable deployments.
 
 - **Technical Head** — *Dhole Patil College of Engineering, Pune* (2021–2022)  
+  • Managed college fests, events for whole college and attended international guests and helped PPO team for college placements.
+
+  - **President** — *Toastmasters Club of Pune* (2021–2022)  
+  • Attended Public speaking Events and made a group internally inside my college for developing 8 leadership principles in students.
+
+- **Intern** — *CPAG Graphology Experts LLP* (2018)
   • Built a Warehouse Inventory Management System (WIMS) leveraging the Observer design pattern to support
   • Completed hands-on industrial training in Ethical Hacking, cyber crime Investigation, and Cyber Law, gaini
   • Led the planning and technical operations of competitive programming events on platforms like Code
-  - **President** — *Toastmasters Club of Pune* (2021–2022)  
-  Communication + leadership, mentoring peers.
-
-- **Intern** — *CPAG Graphology Experts LLP* (2018)
-  
 ---
 
 ## 💻 Featured Projects
