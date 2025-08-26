@@ -73,7 +73,18 @@ I’m a motivated **Software Engineer** with uop 3 years of experience. I am hig
   On-chain credential verification POC.  
   
 ---
+## 🎓 Education  
 
+- **Indian Institute of Technology (IIT) Patna** — *Executive M.Tech in Artificial Intelligence & Data Science* - *2025*
+  Only Designed for working professionals, Complete online course.
+    
+
+- **Savitribai Phule Pune University, Pune)** — *Bachlors B.E. in Information Technolofy (Computer Engineering)* - *2019 – 2022*  
+  Came top 5 in University : CGPA : 9/10
+  
+- **Sandip University, Nashik** — *Diploma in Imformation Technology (Computer Engineering)*  - *2016 – 2019*    
+  
+---
 ## 🛠️ Tech Stack
 
 - **Languages:** Python, Java, JavaScript, SQL, Bash/Shell  
