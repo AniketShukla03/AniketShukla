@@ -12,11 +12,8 @@
 
 ## 🚀 About Me
 
-I’m a motivated **Software Engineer** with experience at **Capgemini** (European automotive clients: Peugeot, Opel, Citroën) and recent freelance work on **Upwork**.  
-I build **scalable backends**, set up **DevOps pipelines**, and ship **automation & testing** solutions.  
-Currently pursuing **M.Tech (AI & Data Science)** at **IIT Patna** and actively building AI-assisted developer tools.
-
-**Interests:** Software Engineering, Backend systems, DevOps, Test Automation, AI-powered Developer Productivity, and Cloud Infrastructure.
+I’m a motivated **Software Engineer** with uop 3 years of experience. I am highly motivated skilled in building scalable applications, optimizing infrastructure, and delivering high-quality solutions for clients and products.
+**Interests:** Software Engineering, Backend systems, DevOps, Test Automation, AI-powered Developer Productivity, and Cloud Infrastructure, QA, SRE, Solutions, Product Specialization.
 
 ---
 
