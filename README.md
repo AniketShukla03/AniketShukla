@@ -82,12 +82,12 @@ I’m a motivated **Software Engineer** with uop 3 years of experience. I am hig
 - **Cloud & DevOps:** AWS (EC2, S3, Lambda, IAM, CloudWatch), Azure, Docker, Kubernetes, Jenkins, Terraform, GitHub Actions  
 - **Testing/QA:** Selenium, PyTest, JUnit, REST Assured; regression/smoke/E2E; exploratory testing  
 - **Monitoring & Logs:** Prometheus, Grafana, ELK, structured logging & metrics
-- **Devops: AWS (EC2, Lambda, S3, Cloud Watch, IAM), Azure, Docker, Kubernetes, Jenkins
-- **QA Practices: Manual and Exploratory Testing, Regression, Smoke, End-to-End Testing, Test Strategy, Bug Reporting
-- **Monitoring and Quality: CloudWatch, Prometheus, Grafana, Logging & Metrics Validation, Security
-- **Databases and APIs: SQL (PostgreSQL, MySQL, Oracle), MongoDB, Redis, REST APIs, Microservices
-- **Methodologies: Agile/Scrum, SDLC, Shift-Left Testing, Collaboration with Product/Dev Teams
-- **Scripting and Automation: Python, Bash, Shell Scripting
+- Devops: AWS (EC2, Lambda, S3, Cloud Watch, IAM), Azure, Docker, Kubernetes, Jenkins
+- QA Practices: Manual and Exploratory Testing, Regression, Smoke, End-to-End Testing, Test Strategy, Bug Reporting
+- Monitoring and Quality: CloudWatch, Prometheus, Grafana, Logging & Metrics Validation, Security
+- Databases and APIs: SQL (PostgreSQL, MySQL, Oracle), MongoDB, Redis, REST APIs, Microservices
+- Methodologies: Agile/Scrum, SDLC, Shift-Left Testing, Collaboration with Product/Dev Teams
+- Scripting and Automation: Python, Bash, Shell Scripting
 
 ---
 
