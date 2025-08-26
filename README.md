@@ -33,8 +33,8 @@ I’m a motivated **Software Engineer** with uop 3 years of experience. I am hig
   • Automated database tasks (Oracle + Shell scripts) for rollbacks, migrations, and backups.  
   • Diagnosed production issues via logs + root cause analysis, collaborating with infra/QA to fix quickly.  
   • Modernized cloud infrastructure by moving legacy systems to Terraform-based IaC, boosting scalability and deployment speed.
-  • Built and managed multi-cloud environments (AWS + Azure) with strong focus on reliability, security, and zero drift.
-  • Migrated company repositories from GitHub to GitLab, improving security and CI/CD integration.
+- • Built and managed multi-cloud environments (AWS + Azure) with strong focus on reliability, security, and zero drift.
+- • Migrated company repositories from GitHub to GitLab, improving security and CI/CD integration.
   • Streamlined CI/CD workflows using GitLab + Jenkins + automation scripts, cutting release cycles significantly.
   • Tuned AWS DynamoDB with auto-scaling and indexing tweaks for high-availability workloads.
   • Set up proactive monitoring and alerting (CloudWatch, Grafana, ELK) to reduce downtime and speed up incident response.
