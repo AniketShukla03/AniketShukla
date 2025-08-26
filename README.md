@@ -1,6 +1,6 @@
 # 👨‍💻 Aniket Shukla
 
-**Software Engineer · DevOps & Cloud · Full-Stack · QA Automation · AI/Automation Enthusiast**
+**Software Engineer**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aniket%20Shukla-blue?logo=linkedin)](https://www.linkedin.com/in/shukla-aniket/)
 [![GitHub](https://img.shields.io/badge/GitHub-AniketShukla03-black?logo=github)](https://github.com/AniketShukla03)
